@@ -22,7 +22,8 @@ answers = ['Rely on your inner soul',
            'Better not tell you now', 
            'You should find that out for yourself', 
            'It is trivial',
-           'Very doubtful'
+           'Very doubtful',
+           'Je suis une pomme',
            '42']
 
 
@@ -35,7 +36,7 @@ def magic8ball():
     
 
 def replay():
-    """Replay the 8ball game if you want""""
+    """Replay the 8ball game if you want"""
     print ('\nDo you have another question? [Y/N] ')
     reply = input()
     if reply.lower() == 'y':
