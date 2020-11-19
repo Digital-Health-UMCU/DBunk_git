@@ -25,8 +25,8 @@ answers = ['Rely on your inner soul',
            'Very doubtful',
            'Je suis une pomme',
            '42',
-           'Ofcourse']
-
+           'Ofcourse'
+           'I am fine']
 
 def magic8ball():
     """Ask any question and get an answer."""
