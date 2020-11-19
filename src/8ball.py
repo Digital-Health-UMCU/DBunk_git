@@ -49,7 +49,7 @@ def replay():
     elif reply.lower() == 'n':
         exit()
     else:
-        print('I apologies, I did not catch that. Please repeat.')
+        print('My apologies, I did not catch that. Please repeat.')
         replay()
 
 if __name__ == '__main__':
