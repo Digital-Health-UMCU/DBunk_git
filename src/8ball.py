@@ -25,15 +25,12 @@ answers = ['Rely on your inner soul',
            'Very doubtful',
            'Je suis une pomme',
            '42',
-<<<<<<< HEAD
            'Ofcourse'
            'I am fine',
            'Ergo sum',
-           'COVID never dies']
-=======
-           'Of course'
+           'COVID never dies'
+           'Of course',
            'I am fine']
->>>>>>> b9c19c0a02b8144a3c94758af7dd72b4d0bdb50d
 
 def magic8ball():
     """Ask any question and get an answer."""
