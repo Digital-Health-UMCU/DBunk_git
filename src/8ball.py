@@ -24,6 +24,7 @@ answers = ['Rely on your inner soul',
            'It is trivial',
            'Very doubtful',
            'Je suis une pomme',
+           'I am fine',
            '42']
 
 
