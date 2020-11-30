@@ -6,3 +6,5 @@ if __name__=='__main__':
     print("d3")	
     print("f1")	
     print("f2")	
+    print("f3")
+    	
