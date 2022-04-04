@@ -25,7 +25,9 @@ answers = ['Rely on your inner soul',
            'It is trivial',
            'Very doubtful',
            'Je suis une pomme',
-           '42']
+           '42',
+           'Very nice',
+           'Good job Richard!']
 
 
 def magic8ball():
