@@ -17,7 +17,8 @@ print('Hello there, I am the Magic 8 Ball')
 
 answers = ['Rely on your inner soul', 
            'Be true to yourself', 
-           'Most likely', 
+           'Most likely',
+           'for sure', 
            'Ask again later', 
            'Better not tell you now', 
            'You should find that out for yourself', 
